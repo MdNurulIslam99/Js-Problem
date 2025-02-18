@@ -18,5 +18,5 @@ function calculateSleepTime(times) {
   }
 }
 
-const array = calculateSleepTime([100, 3800, "90"]);
+const array = calculateSleepTime([1000, 499, 519, 300]);
 console.log(array);

@@ -24,5 +24,5 @@ function willSuccess(marks) {
   }
 }
 
-const result = willSuccess([60, 70, 80, 40, 30]);
+const result = willSuccess("100 , 100");
 console.log(result);

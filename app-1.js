@@ -8,7 +8,7 @@ function calculateVAT(price) {
   }
 }
 
-const price = calculateVAT(1500);
+const price = calculateVAT(5000);
 console.log(price);
 
 /* function calculateVAT(price) {
