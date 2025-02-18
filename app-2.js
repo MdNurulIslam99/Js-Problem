@@ -15,5 +15,5 @@ function validContact(contact) {
   }
 }
 
-const result = validContact("01819234567");
+const result = validContact(500);
 console.log(result);

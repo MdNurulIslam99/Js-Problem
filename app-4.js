@@ -56,13 +56,4 @@ function validProposal(person1, person2) {
   }
 }
 
-console.log(
-  validProposal(
-    {
-      name: "mitu",
-      gender: "male",
-      age: 32,
-    },
-    [1000, 499, 519, 300]
-  )
-);
+console.log(validProposal({ name: "mitu", gender: "male", age: 32 }, "Mizan"));
